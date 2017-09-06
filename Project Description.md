@@ -1,9 +1,9 @@
-#Over-arching aim:  Do reproducible science! 
-###Aim for the OBI course project is two-fold: 
+# Over-arching aim:  Do reproducible science! 
+### Aim for the OBI course project is two-fold: 
 1. Put into practical use the various tools we learn on this course such as Git, docker, jupyter, DataLad and nipype pipelines.
 2. Do above while also ensuring that the data formats/tools/results are conducive to reproducible science. To this end, we’ll use BIDs format data and share everything.
 
-Keeping in mind the scope of this course, we will use tools learnt to during the cpurse to implement each step:
+### Keeping in mind the scope of this course, we will use tools learnt to during the cpurse to implement each step:
 1. Create a Git repo and edit this document using various Git commands!
 2. Get data from any open access dataset via datalad. (HCP. I’m flexible re. dataset. 
    We can discuss as a group re. exact dataset and plans.)
@@ -16,4 +16,8 @@ ALTERNATELY/ OR in addition to above (depending on interest/time), we could impl
 There are various nypipe tools available for that as well (e.g.: C-PAC). 
 7. Write code to document the steps taken above and the resulting images / results in a Jupyter NB with some pretty pictures to share with the everyone. :)
 
+### Tasks to do:
 
+- [ ] Edit **this** file to make use of the steps listed above to create a 200-400 word description of the project. 
+
+Use Git to do the above :laugh: 
