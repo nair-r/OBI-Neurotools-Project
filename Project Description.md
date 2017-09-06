@@ -20,4 +20,4 @@ There are various nypipe tools available for that as well (e.g.: C-PAC).
 
 - [ ] Edit **this** file to make use of the steps listed above to create a 200-400 word description of the project. 
 
-Use Git to do the above :laugh: 
+Use Git to do the above :D
