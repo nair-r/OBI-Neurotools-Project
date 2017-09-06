@@ -1,5 +1,5 @@
 # OBI-Neurotools-Project 
-#### (AKA the **OBI-WAN** (_O_nline _B_rain _I_ntensive _W_ith _A_utomated _N_euro-pipelines) Project)
+(AKA **OBI-WAN** (**O**nline **B**rain **I**ntensive **W**ith **A**utomated **N**euro-pipelines) Project
 
 Team repo for practical application of tools learnt during OBI 2017
 
