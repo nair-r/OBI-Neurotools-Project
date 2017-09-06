@@ -3,7 +3,7 @@
 1. Put into practical use the various tools we learn on this course such as Git, docker, jupyter, DataLad and nipype pipelines.
 2. Do above while also ensuring that the data formats/tools/results are conducive to reproducible science. To this end, we’ll use BIDs format data and share everything.
 
-### Keeping in mind the scope of this course, we will use tools learnt to during the cpurse to implement each step:
+### Keeping in mind the scope of this course, we will use tools learnt to during the course to implement each step:
 1. Create a Git repo and edit this document using various Git commands!
 2. Get data from any open access dataset via datalad. (HCP. I’m flexible re. dataset. 
    We can discuss as a group re. exact dataset and plans.)
