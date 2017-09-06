@@ -1,4 +1,4 @@
-##Over-arching aim:  Do reproducible science! 
+#Over-arching aim:  Do reproducible science! 
 ###Aim for the OBI course project is two-fold: 
 1. Put into practical use the various tools we learn on this course such as Git, docker, jupyter, DataLad and nipype pipelines.
 2. Do above while also ensuring that the data formats/tools/results are conducive to reproducible science. To this end, we’ll use BIDs format data and share everything.
