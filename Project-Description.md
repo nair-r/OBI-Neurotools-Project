@@ -38,8 +38,3 @@ ALTERNATELY/ OR in addition to above (depending on interest/time), we could impl
 There are various nypipe tools available for that as well (e.g.: C-PAC).
 7. Write code to document the steps taken above and the resulting images / results in a Jupyter NB with some pretty pictures to share with the everyone. :)
 
-### Tasks to do:
-
-- [ ] Edit **this** file to make use of the steps listed above to create a 200-400 word description of the project.
-
-Use Git to do the above :D
