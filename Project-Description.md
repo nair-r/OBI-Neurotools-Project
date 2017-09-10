@@ -7,9 +7,9 @@
 Remya Nair (slack: \@rnair, github: nair-r)
 
 ## Description
-The aim for this project is twofold: To put into practical use the various tools we learn on this course such as git, docker, jupyter, DataLad and nipype pipelines, as well as ensuring that the data formats, tools, and results are conducive to reproducible science. To this end, we will use BIDS format data and open-source pipelines, and create a workflow that will be shared in a Jupyter notebook.
+Aim: Put into practical use all tools learnt during OBI & create an fMRI workflow using existing open-source pipelines & data formats that are conducive to reproducible science. 
+Specifically, we will get a sample of the MSC dataset in BIDS format; get image quality metrics using mriqc; preprocess data using fMRIprep; connect & integrate above steps within a Jupyter NB to create a documented, reproducible workflow that can be shared with & easily adapted by the community.
 
-Specifically, we aim to get an open access dataset (*INSERT DATASET*), convert the data into BIDS format, check the data quality using mriqc, and preprocess the data using fmriprep. We will use nipype to connect these steps and create a Jupyter notebook, to provide a well-documented and reproducible workflow that can be shared with, and easily adapted by the community. 
 
 ## Team
 Team OBI-WAN (Remya Nair, Oana Tudusciuc, Samuel Guay, Samyukta Chillara, Somayeh Maleki, Armin Najarpour Foroushani, Kristina Wiebels, and Ilkka Kosunen)
