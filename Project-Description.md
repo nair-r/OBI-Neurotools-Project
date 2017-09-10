@@ -4,7 +4,7 @@
 **OBI-WAN** (**O**nline **B**rain **I**ntensive **W**ith **A**utomated **N**euro-pipelines)
 
 ## Contact information
-Project leader: Remya Nair (slack: \@rnair, github: nair-r)
+Remya Nair (slack: \@rnair, github: nair-r)
 
 ## Description
 The aim for this project is twofold: To put into practical use the various tools we learn on this course such as git, docker, jupyter, DataLad and nipype pipelines, as well as ensuring that the data formats, tools, and results are conducive to reproducible science. To this end, we will use BIDS format data and open-source pipelines, and create a workflow that will be shared in a Jupyter notebook.
