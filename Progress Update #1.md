@@ -1,5 +1,5 @@
 
-# Project Progress report `#1`
+# Project Progress Report `#1`
 
 **Theoretical Motivation:**
 In keeping with the spirit of the Brainhack community, we decided to use the OBI project as an opportunity to further our own understanding of the reproducible tools we learnt during the course and to help others in the community to get started doing the same. We believe in *Learning-By-Doing* and plan to create a Jupyter Notebook based tutorial intended as a learning guide for beginners in the field to quickly step through the various early stages of doing MRI data analysis in a reproducible manner. Our guide will cover BIDS conversion, data quality control using MRIQC and data pre-processing using fMRIPREP pipelines.
