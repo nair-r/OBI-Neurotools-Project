@@ -27,3 +27,10 @@ For this project, our focus is on interfacing the various steps of our tutorial 
 We have created an algorithmic block diagram below depicting various parts of our tutorial pipeline including what kind of input each Jupyter NB cell takes, what steps it performs, and the output it produces. We will use this algorithm as a template to develop 'code cells' in our tutorial notebook. Team members will work on a cell each in parallel, then we will interface parts that are next to each other to form the complete tutorial notebook.
 
 ![Algorithm for OBI project](https://user-images.githubusercontent.com/31489113/30526617-70f280ce-9bd2-11e7-899b-dd67e1464e16.jpg)
+
+
+
+**References:**
+1. http://bids.neuroimaging.io
+2. http://mriqc.readthedocs.io
+3. https://fmriprep.readthedocs.io
