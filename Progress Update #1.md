@@ -33,4 +33,4 @@ We have created an algorithmic block diagram below depicting various parts of ou
 **References:**
 1. http://bids.neuroimaging.io
 2. http://mriqc.readthedocs.io
-3. https://fmriprep.readthedocs.io
+3. https://fmriprep.readthedocs.io 
